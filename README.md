@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![img](https://github.com/oralanto/oralanto/blob/master/img/kameHouse.jpeg)
+![img](./img/kameHouse.jpeg)
