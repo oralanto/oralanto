@@ -1,4 +1,5 @@
 ### Hi there 👋
+## I'm a french web developer
 
 <!--
 **oralanto/oralanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![img](./img/kameHouse.jpeg)
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=oralanto&theme=shades-of-purple)](https://github.com/oralanto/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oralanto&theme=shades-of-purple)](https://github.com/oralanto/github-readme-stats)
+
+#### Frameworks and Libraries
