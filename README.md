@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=oralanto&theme=shades-of-purple)](https://github.com/oralanto/github-readme-stats)
+[![Les Stats GitHub de oralanto](https://github-readme-stats.vercel.app/api?username=oralanto&theme=shades-of-purple)](https://github.com/oralanto/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oralanto&theme=shades-of-purple)](https://github.com/oralanto/github-readme-stats)
 
 ## - 🔭 I’m currently working on ...
