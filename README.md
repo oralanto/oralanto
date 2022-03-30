@@ -70,6 +70,9 @@ o.ralanto@gmail.com
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 www.linkedin.com/in/osee-ralantoarison
 
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+https://oseeralantoarison.netlify.app/
+
 ## - 🌱 I want to learn
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
