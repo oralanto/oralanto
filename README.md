@@ -1,5 +1,6 @@
 ### Hi there 👋
 ## I'm a french web developer. I learned self-taught programming with youtube, Udemy, Code Combat, Codingame and then joined the O'clock school.
+## I work from home actually
 
 <!--
 **oralanto/oralanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
