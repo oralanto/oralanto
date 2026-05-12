@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Les Stats GitHub de oralanto](https://github-readme-stats.vercel.app/api?username=oralanto&theme=shades-of-purple)](https://github.com/oralanto/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oralanto&theme=shades-of-purple)](https://github.com/oralanto/github-readme-stats)
-
 ## - 🔭 I’m currently working on ...
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23593d88.svg?style=for-the-badge&logo=typescript&logoColor=white)
