@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Front-end focused web developer since 2021, working mainly with **TypeScript, React and Next.js**. I've built e-commerce and hotel-booking platforms, shipped reusable component libraries and design systems, and also worked on back-end services with **Spring Boot**, **Node.js** and **Go**. Outside code: hip-hop culture, cycling and chess.
+
+💼 **Open to work** – I'm looking for a **freelance** mission or a **permanent (CDI) position**. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/osee-ralantoarison) or [email](mailto:o.ralanto@gmail.com).
+
 ## 🔭 What I work with
 
 I mostly build web apps with **TypeScript, React and Next.js**, on top of Node.js back ends.
