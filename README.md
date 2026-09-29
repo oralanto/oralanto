@@ -4,9 +4,7 @@ Front-end focused web developer since 2021, working mainly with **TypeScript, Re
 
 💼 **Open to work** – I'm looking for a **freelance** mission or a **permanent (CDI) position**. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/osee-ralantoarison) or [email](mailto:o.ralanto@gmail.com).
 
-## 🔭 What I work with
-
-I mostly build web apps with **TypeScript, React and Next.js**, on top of Node.js back ends.
+## 🛠️ Tech stack
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23593d88.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23593d88.svg?style=for-the-badge&logo=javascript&logoColor=white)
